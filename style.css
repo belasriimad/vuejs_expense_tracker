@@ -1,0 +1,47 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.panel {
+    background: beige;
+}
+
+#result {
+    height: 40px;
+    width: 150px;
+    background: #8D8D81;
+    color: #ffffff;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+.btn {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+form {
+    margin-top: 15px;
+}
+
+button {
+    margin-top: 6px;
+}
+
+.positive {
+    background-color: #08BF08;
+    color: #ffffff;
+    width: 200px;
+    text-align: center;
+}
+
+.negative {
+    background-color: #ED4143;
+    color: #ffffff;
+    width: 200px;
+    text-align: center;
+}
+
+li#res {
+    padding: 20px;
+}
